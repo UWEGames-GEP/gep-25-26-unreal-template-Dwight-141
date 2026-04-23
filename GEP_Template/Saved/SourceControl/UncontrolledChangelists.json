@@ -5,6 +5,28 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Widget/WB_Inventory.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Widget/WB_Slots.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Blueprints/S_ItemStruct.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Items/M_BlueOrbMat.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LM/02KCT85SPDK4VWM2VO9QDU.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Items/M_BlackOrbMat.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Items/M_GoldOrbMat.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ET/QHPSG5SIJVHT326D6TACKU.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/7I/8KM99BEE6XP94HPV1EY4TQ.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Blueprints/BP_Item.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/LI/2P5JTAY3FXN0560D55NAM6.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Blueprints/BP_BlueOrb.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Blueprints/BP_BlackOrb.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Blueprints/BP_GoldOrb.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/B7/IFCVZV2Y1J4DM75NA6XE4G.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HH/MMMCHBTRL19R3MMXCGVS41.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/R1/B26VLDVSQ6OT34CPRCWBG9.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Widget/WB_ItemButton.uasset",
+				"C:/Users/UserPC/Documents/unreal/gep-25-26-unreal-template-Dwight-141/GEP_Template/Content/Inventory/Items/M_BlackOrbMat1.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
